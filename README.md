@@ -97,3 +97,18 @@ OnDevice-AI를 활용한 아동 생활습관 개선 어플리케이션
 | 2023-11-08                                                                                                                                               | 2023-11-14                                                                                                                                      | 2023-11-15                                                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![1108patchImg](/README/fetch_note/1108patch.png)](https://piyou.notion.site/11-8-Ver-1-0-0-94a5fab7776645028f20f744cdb8d3c8) | [![1114patchImg](/README/fetch_note/1114patch.png)](https://piyou.notion.site/11-14-03d08b3ac31a4996a258bcae275e0c94) | [![1115patchImg](/README/fetch_note/1115patch.png)](https://piyou.notion.site/11-15-Ver-2-0-0-e820af624e7e496aa47da6bc7c85d362) |
+
+
+# :movie_camera: UCC
+<div align="center">
+
+<a href="https://youtu.be/EHhbgAoXq_k?si=6slBEiaxzKM0c6ju" target="_blank">
+
+  ![Video Label](https://img.youtube.com/vi/EHhbgAoXq_k/0.jpg)
+  
+</a>
+
+</div>
+
+<br/>
+
