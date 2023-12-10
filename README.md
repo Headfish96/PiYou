@@ -33,6 +33,7 @@
 <a href="https://youtu.be/uulgX3FKP8o" target="_blank">
    <img width="480" height="270" alt="image" src="https://github.com/Headfish96/PiYou/assets/41338713/4fabff13-4a3a-4aca-b540-3e29b4f1de5a">
 </a>
+</div>
 
 ## 기획 배경
 오늘날 아동들이 영상을 두고 식사를 하는 것, 양치를 잘 하지 않는 문제를 해결하는 방안을 모색함.
