@@ -3,11 +3,11 @@
 <div align="center">
 <h1>🏆 SSAFY 9기 자율 프로젝트 전국 1등 🏆</h1> 
   <br />
-  <img src="https://github.com/Headfish96/PiYou/assets/41338713/246ab400-5a59-41ac-abf5-067827482ce4" width="767" height="550"/>
+  <img src="https://github.com/Headfish96/PiYou/assets/41338713/246ab400-5a59-41ac-abf5-067827482ce4" width="700" height="550"/>
   <br />
 </div>
 <div align="center">
- <h3><b>피유(PiYou)</b></h3>
+ <h3><b>피유(PiYou)</b></h3>x
  OnDevice-AI를 활용한 아동 생활습관 개선 서비스<br>
  미러링과 모션인식을 통한 상호작용<br>
   </b><br><br>
