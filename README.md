@@ -1,9 +1,17 @@
 # 피유(Piyou)
 
-<img src="https://github.com/Headfish96/PiYou/assets/41338713/fd21561c-bc7e-4736-8a7b-17d5517818e2" width="384" height="216"/>
-
-![표지 3](https://github.com/Headfish96/PiYou/assets/41338713/246ab400-5a59-41ac-abf5-067827482ce4)
-
+<div align="center">
+  <br />
+  <img src="https://github.com/Headfish96/PiYou/assets/41338713/246ab400-5a59-41ac-abf5-067827482ce4" width="384" height="216"/>
+  <br />
+</div>
+<div align="center">
+ <h3><b>피유(PiYou)</b></h3>
+ OnDevice-AI를 활용한 아동 생활습관 개선 서비스<br>
+ 미러링과 모션인식을 통한 상호작용<br>
+  </b><br><br>
+  <br>
+</div>
 
 
 ## 목차
