@@ -115,7 +115,7 @@
 
 <a href="https://youtu.be/uulgX3FKP8o" target="_blank">
 
-   <img width="1512" alt="image" src="https://github.com/Headfish96/PiYou/assets/41338713/4fabff13-4a3a-4aca-b540-3e29b4f1de5a">
+   <img width="960" height="540" alt="image" src="https://github.com/Headfish96/PiYou/assets/41338713/4fabff13-4a3a-4aca-b540-3e29b4f1de5a">
   
 </a>
 
