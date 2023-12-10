@@ -7,7 +7,7 @@
   <br />
 </div>
 <div align="center">
- <h3><b>피유(PiYou)</b></h3>x
+ <h3><b>피유(PiYou)</b></h3>
  OnDevice-AI를 활용한 아동 생활습관 개선 서비스<br>
  미러링과 모션인식을 통한 상호작용<br>
   </b><br><br>
