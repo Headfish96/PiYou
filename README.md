@@ -42,21 +42,37 @@ OnDevice-AI를 활용한 아동 생활습관 개선 어플리케이션
 
 ## 사용 기술
 
-### **FrontEnd**
+## :wrench: 기술스택
 
-- `Unity`
+### Client
+
+- `Unity 2022.3.11`
+- `MediaPipeUnityPlugin 0.12.0`
 - `Vue.js`
-- `HTML`
-- `CSS`
-- `JavaScript`
+- `Vite 3.3.4`
+- `Node.js 18.16.1`
 
-### **BackEnd**
+### Server
 
-- `Java 11`
-- `Spring boot`
+- `SpringBoot 2.7.16`
 - `Spring Data JPA`
-- `MySQL`
+- `Gradle 8.3`
+- `lombok`
+
+### DB
+
+- `MySQL 8.33`
+
+### Infra
+
+- `Ubuntu 20.04.6`
+- `Nginx 18.0`
 - `AWS EC2`
+- `Docker 24.0.7`
+- `Docker Compose 2.5.0`
+
+### 외부 API
+- `Firebase 7.1.0`
 
 ### **Communication**
 
