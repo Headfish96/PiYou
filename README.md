@@ -1,5 +1,6 @@
 # 피유(Piyou)
 
+<img src="https://github.com/Headfish96/PiYou/assets/41338713/fd21561c-bc7e-4736-8a7b-17d5517818e2" width="384" height="216"/>
 OnDevice-AI를 활용한 아동 생활습관 개선 어플리케이션
 
 ## 목차
@@ -104,7 +105,7 @@ OnDevice-AI를 활용한 아동 생활습관 개선 어플리케이션
 
 <a href="https://youtu.be/uulgX3FKP8o" target="_blank">
 
-   <img src="https://github.com/Headfish96/PiYou/assets/41338713/fd21561c-bc7e-4736-8a7b-17d5517818e2" width="192" height="108"/>
+   <img width="1512" alt="image" src="https://github.com/Headfish96/PiYou/assets/41338713/4fabff13-4a3a-4aca-b540-3e29b4f1de5a">
   
 </a>
 
