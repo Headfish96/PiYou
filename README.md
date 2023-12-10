@@ -1,6 +1,7 @@
 # 피유(Piyou)
 
 <img src="https://github.com/Headfish96/PiYou/assets/41338713/fd21561c-bc7e-4736-8a7b-17d5517818e2" width="384" height="216"/>
+![표지 3](https://github.com/Headfish96/PiYou/assets/41338713/4a98e58c-6496-4e01-9468-30b2d322f6d5)
 
 ## 목차
 
