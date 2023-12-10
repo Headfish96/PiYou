@@ -14,7 +14,6 @@
   <br>
 </div>
 
-
 ## 목차
 
 - [프로젝트 소개](#프로젝트-소개)
@@ -29,10 +28,19 @@
 - 🗓️ 프로젝트 기간: 2023.10.10 ~ 2023.11.30
 - 개발 엔진 및 언어: Unity, C#, SpringBoot
 - 멤버: 팀장 최하영(권소정, 이다영, 이지영, 인영교, 정민)
+### :movie_camera: 소개 영상
+<div align="center">
+<a href="https://youtu.be/uulgX3FKP8o" target="_blank">
+   <img width="480" height="270" alt="image" src="https://github.com/Headfish96/PiYou/assets/41338713/4fabff13-4a3a-4aca-b540-3e29b4f1de5a">
+</a>
 
 ## 기획 배경
-
-올바른 식습관과 양치습관을 학습시켜 부모님의 육아 스트레스를 경감시키는 어플리케이션
+오늘날 아동들이 영상을 두고 식사를 하는 것, 양치를 잘 하지 않는 문제를 해결하는 방안을 모색함.
+이를 위해 아동들, 그 부모님들, 유치원 교사들, 아동 전문가들의 자문을 거쳐 서비스를 개발하였음.
+- 미러링을 통해 아동들은 본인의 모습을 보며 주체라고 인식함
+- 상호작용을 통해 서비스를 즐겁게 사용할 수 있음
+- 워치를 통해 식사 중, 양치 중의 습관 뿐아니라 언제 식사를 하고 언제 양치를 해야하는지 그 시기까지 습관화 시킴.
+이를 통해 올바른 생활습관을 학습시켜 부모님의 육아 스트레스를 경감시키는 것이 최종 목표임.
 
 ## 게임 설명
 
@@ -40,7 +48,6 @@
 | :---------------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------------------------: |
 | ![메인](/README/about_app/main.png) | ![먹방](/README/about_app/eat.png) | ![양치](/README/about_app/tooth_brush.png) | ![모자꾸미기](/README/about_app/accessory.png) |
 
-### 소개 영상 보기: [UCC](https://youtu.be/6nWyjqQSRyo?feature=shared)
 
 ## :family: 팀 소개
 [만든사람들](/README/developer/developer.mp4)
@@ -110,18 +117,7 @@
 | [![1108patchImg](/README/fetch_note/1108patch.png)](https://piyou.notion.site/11-8-Ver-1-0-0-94a5fab7776645028f20f744cdb8d3c8) | [![1114patchImg](/README/fetch_note/1114patch.png)](https://piyou.notion.site/11-14-03d08b3ac31a4996a258bcae275e0c94) | [![1115patchImg](/README/fetch_note/1115patch.png)](https://piyou.notion.site/11-15-Ver-2-0-0-e820af624e7e496aa47da6bc7c85d362) |
 
 
-# :movie_camera: UCC
-<div align="center">
 
-<a href="https://youtu.be/uulgX3FKP8o" target="_blank">
-
-   <img width="480" height="270" alt="image" src="https://github.com/Headfish96/PiYou/assets/41338713/4fabff13-4a3a-4aca-b540-3e29b4f1de5a">
-  
-</a>
 
 </div>
-
-<br/>![454](https://github.com/Headfish96/PiYou/assets/41338713/fd21561c-bc7e-4736-8a7b-17d5517818e2)
-
-<img width="1512" alt="image" src="https://github.com/Headfish96/PiYou/assets/41338713/4fabff13-4a3a-4aca-b540-3e29b4f1de5a">
 
