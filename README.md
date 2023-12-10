@@ -2,7 +2,7 @@
 
 <div align="center">
   <br />
-  <img src="https://github.com/Headfish96/PiYou/assets/41338713/246ab400-5a59-41ac-abf5-067827482ce4" width="767" height="537"/>
+  <img src="https://github.com/Headfish96/PiYou/assets/41338713/246ab400-5a59-41ac-abf5-067827482ce4" width="767" height="550"/>
   <br />
 </div>
 <div align="center">
