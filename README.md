@@ -1,6 +1,7 @@
 # 피유(Piyou)
 
 <div align="center">
+<h1>🏆 SSAFY 9기 자율 프로젝트 전국 1등 🏆</h1> 
   <br />
   <img src="https://github.com/Headfish96/PiYou/assets/41338713/246ab400-5a59-41ac-abf5-067827482ce4" width="767" height="550"/>
   <br />
