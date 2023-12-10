@@ -102,7 +102,7 @@ OnDevice-AI를 활용한 아동 생활습관 개선 어플리케이션
 # :movie_camera: UCC
 <div align="center">
 
-<a href="https://youtu.be/EHhbgAoXq_k?si=6slBEiaxzKM0c6ju" target="_blank">
+<a href="https://youtu.be/uulgX3FKP8o" target="_blank">
 
   ![Video Label](https://img.youtube.com/vi/EHhbgAoXq_k/0.jpg)
   
