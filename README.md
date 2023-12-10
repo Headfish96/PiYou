@@ -110,5 +110,6 @@ OnDevice-AI를 활용한 아동 생활습관 개선 어플리케이션
 
 </div>
 
-<br/>
+<br/>![454](https://github.com/Headfish96/PiYou/assets/41338713/fd21561c-bc7e-4736-8a7b-17d5517818e2)
+
 
