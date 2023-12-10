@@ -118,13 +118,9 @@ OnDevice-AI를 통한 모션인식으로 상호작용하며 올바른 생활습�
 
 ### 주요 기술
 
-|                             MediaPipe Holistic Model                              |                            ConvexHull |                             SpringBatch                              |                          
+|                             MediaPipe Holistic Model                              |                            SpringBatch 
 | :---------------------------------------------------------: | :---------------------------------------------------------: 
 | ![미디어_파이프](/README/tech_intro/mediapipe.png) | ![컨벡스_헐](/README/tech_intro/convex_hull.png) | 
-
-                                                     
-| :---------------------------------------------------------: | 
-| ![미디어_파이프](/README/tech_intro/mediapipe.png) |
 
 
 ## 릴리즈 히스토리
